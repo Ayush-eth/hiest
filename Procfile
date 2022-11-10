@@ -1,0 +1,1 @@
+web: gunicorn heist.wsgi --log-file -
